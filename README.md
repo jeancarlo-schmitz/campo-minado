@@ -27,6 +27,9 @@
   O usuário digita no console o campo que deseja abrir/marcar, e a mágica acontece. <br>
 </p>
 
+![campo_minado](https://user-images.githubusercontent.com/11407906/185352606-f06addba-5561-4a23-a742-e02318ff5b0c.gif)
+
+
 <h1>⚙ Técnicas e tecnologias utilizadas</h1>
 <ul>
   <li>Java 8 +</li>
