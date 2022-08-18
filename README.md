@@ -11,11 +11,6 @@
   Projeto desenvolvido no curso de java. A ideia do projeto é fazer a lógica do jogo campo minado. <br>
   Não tem interface gráfica, as ações do jogo acontecem via console do java. <br>
 </p>
-<h1>📍 Status do Projeto </h1>
-
-<h3 align="center">
-✅  Finalizado  ✅
-</h3>
 
 <h1>🔨 Funcionalidades do projeto</h1>
 <p>
@@ -38,4 +33,15 @@
   <li>Junit 5</li>
   <li>MVC</li>
   <li>STS IDE</li>
+</ul>
+
+<h1>📍 Status do Projeto </h1>
+
+<h3 align="center">
+✅  Finalizado  ✅
+</h3>
+
+<h1>⚡ Melhorias Possiveis </h1>
+<ul>
+  <li>Fazer uma interface Gráfica</li>
 </ul>
