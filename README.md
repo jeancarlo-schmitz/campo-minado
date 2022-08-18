@@ -22,6 +22,7 @@
     -- Se o campo for seguro, e os campos vizinhos também forem seguros, todos os campos seguros serão abertos.<br>
     --- Caso um campo aberto, tenha algum campo minado ao redor, uma marcação indicando a quantidade de bombas ao redor aparecera<br> 
     -- Se o campo for minado, você perdeu o jogo, e precisa reiniciar.<br> 
+    -- Quando o jogador perde o jogo. Todos os campos com minas são revelados<br> 
     - Marcar o campo, significa que ele acredita que esse campo possui uma bomba; <br>
     - Um campo marcado, não pode ser aberto <br>
   O usuário digita no console o campo que deseja abrir/marcar, e a mágica acontece. <br>
@@ -29,6 +30,13 @@
 
 ![campo_minado](https://user-images.githubusercontent.com/11407906/185352606-f06addba-5561-4a23-a742-e02318ff5b0c.gif)
 
+Indice: 
+<ul>
+  <li>? -> Campo fechado</li>
+  <li>* -> bombas (amarelo)</li>
+  <li>X -> campo marcado (vermelho)</li>
+  <li>Números -> Indica a quantidade de bombas ao redor do campo (Cores variadas).</li>
+</ul>
 
 <h1>⚙ Técnicas e tecnologias utilizadas</h1>
 <ul>
