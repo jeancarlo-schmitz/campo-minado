@@ -14,6 +14,12 @@
 
 <h1>🔨 Funcionalidades do projeto</h1>
 <p>
+  Inicialmente foi feito o jogo todo pelo console.<br>
+  Somente depois que foi feito a parte grafica do jogo. Deixei os 2 modos de jogo ativo.
+</p>
+
+<h4>Modo de jogo pelo console.<h4>
+<p>
   Primeiro o jogador seleciona as configurações do jogo, podendo escolher a quantidade de linhas, colunas e a quantidade de bombas.<br>
   A condição de vítoria é abrir todos os campos seguros, e marcar todos os campos minados.<br>
   O jogo começa com o jogador podendo escolher a posição que ele deseja abrir do campo minado <br>
@@ -28,7 +34,9 @@
   O usuário digita no console o campo que deseja abrir/marcar, e a mágica acontece. <br>
 </p>
 
+![campo_minado_2](https://user-images.githubusercontent.com/11407906/187006983-fa43a4c4-4066-4a26-b099-129498a8bc79.gif)
 ![campo_minado](https://user-images.githubusercontent.com/11407906/185352606-f06addba-5561-4a23-a742-e02318ff5b0c.gif)
+
 
 Indice: 
 <ul>
@@ -52,7 +60,19 @@ Indice:
 ✅  Finalizado  ✅
 </h3>
 
-<h1>⚡ Melhorias Possiveis </h1>
+<h1>⚡ Como Rodar </h1>
+  <h4>Modo Interface Grafica.</h4>
 <ul>
-  <li>Fazer uma interface Gráfica</li>
+  <li>Fazer o clone, ou baixe o projeto para sua maquina</li>
+  <li>Abra o projeto na sua IDE de preferencia</li>
+  <li>Abre o arquivo em view/TelaPrincipal.java</li>
+  <li>Agora é so rodar o projeto.</li>
+</ul>
+  
+<h4>Modo Pelo console</h4>
+<ul>
+  <li>Fazer o clone, ou baixe o projeto para sua maquina</li>
+  <li>Abra o projeto na sua IDE de preferencia</li>
+  <li>Abre o arquivo em AplicacaoWithConsole.java</li>
+  <li>Agora é so rodar o projeto.</li>
 </ul>
